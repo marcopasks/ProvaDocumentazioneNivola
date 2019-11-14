@@ -12,11 +12,15 @@ L’accesso allo user portal avviene mediante autenticazione. Attualmente sono p
 
 - CSI (credenziali di CSI Piemonte)
 
+.. image:: img/AccessoPortaleCSI.png
+
 - Azienda (credenziali di di SPID o Sistema Piemonte per la pubblica amministrazione)
+
+.. image:: img/AccessoPortaleAzienda.png
 
 - Pubblica amministrazione (credenziali di SPID o RUPAR)
 
-.. image:: img/User_Portal1.png
+... image:: img/AccessoPortalePA.png
 
 Servizi
 -------
@@ -38,7 +42,4 @@ La piattaforma espone diversi Servizi, utilizzabili a seconda del ruolo con cui 
     1. Virtual Private Cloud (VPC).
     
     2. Security Group.
-
-
-.. image:: img/User_Portal3.png
 
