@@ -5,4 +5,4 @@
  
 .. toctree::
 
-	NivolaDocs/come_fare_per/index_come_fare_per.rst
+	docs/come_fare_per/index_come_fare_per.rst
