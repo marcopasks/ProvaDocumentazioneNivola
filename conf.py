@@ -19,14 +19,14 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Yucca'
+project = 'Nivola'
 copyright = '2019, CSI Piemonte'
 author = 'CSI Piemonte'
 
 # The short X.Y version
-version = '2.1'
+version = '1.0'
 # The full version, including alpha/beta/rc tags
-release = '2.1.0'
+release = '1.0.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -125,7 +125,7 @@ def setup(app):
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Yuccadoc'
+htmlhelp_basename = 'Nivoladoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -152,7 +152,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Yucca.tex', 'Yucca Documentation',
+    (master_doc, 'nivola.tex', 'Nivola Documentation',
      'CSI Piemonte', 'manual'),
 ]
 
@@ -162,7 +162,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'yucca', 'Yucca Documentation',
+    (master_doc, 'nivola', 'Nivola Documentation',
      [author], 1)
 ]
 
